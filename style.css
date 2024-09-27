@@ -1,0 +1,473 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container{
+    width: 1440px;  
+    margin: 0 auto;
+}
+
+.header{
+    width: 1440px;
+    height: 955px;
+    margin: 0 auto;
+    background-image: url(img/suhrob.avif);
+    background-size: cover;
+}
+
+.nav{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+}
+
+.button{
+    width: 129px;
+    height: 54px;
+    background-color: #FF4D01;   
+}
+
+.big-header{
+    
+}
+
+.h1{
+    width: 660px;
+    height: 169px;
+    font-size: 72px;
+    font-weight: 700;
+    color: white;
+    margin: 0 auto;
+    margin-top: 251px;
+}
+
+.p{
+    width: 640px;
+    height: 61px;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.button-big{
+    margin-top: 35px;
+    margin-left: 500px;
+}
+
+.button-second{
+    width: 180px;
+    height: 75px;
+    background-color: #FF4D01;
+    color: white;
+    
+}
+
+.button-first{
+    width: 180px;
+    height: 75px;
+    background: transparent;
+    color: white;
+    
+}
+
+.section{
+    margin-top: 144px;
+}
+
+.img-section{
+
+}
+
+.text-section{
+
+}
+
+.big-section{
+    display: flex;
+    gap: 73px;
+}
+
+.p-section{
+    width: 105px;
+    height: 22px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FF4D01;
+}
+
+.h1-section{
+    width: 522px;
+    height: 186px;
+    font-size: 54px;
+    font-weight: 400;
+    color: black;
+}
+
+.p-second{
+    width: 589px;
+    height: 121px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #605E5D;
+}
+
+.numbers{
+    display: flex;
+    gap: 86px;
+    margin-top: 57px;
+}
+
+.h2{
+    width: 154px;
+    height: 107px;
+    font-size: 72px;
+    font-weight: 400;
+}
+
+.h2:hover{
+    color: #FF4D01;
+}
+
+.under{
+    display: flex;
+    gap: 110px;
+    margin-top: -25px;
+}
+
+.suha{
+    width: 147px;
+    height: 20px;
+    color: #989899;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.but-section{
+    width: 237px;
+    height: 75px;
+    background: transparent;
+    margin-top: 48px;
+}
+
+.content{
+    margin-top: 299px;
+}
+
+.p-content{
+    width: 149px;
+    height: 22px;
+    color: #FF4D01;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.h2-content{
+    width: 416px;
+    height: 124px;
+    color: black;
+    font-size: 54px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.button-content{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -100px;
+    gap: 28px;
+}
+
+.first{
+    width: 169px;
+    height: 75px;
+    background-color: #FF4D01;
+    color: white;
+}
+
+.second{
+    width: 211px;
+    height: 75px;
+    color: black;
+    background: transparent;
+}
+
+.big-content{
+    margin-top: 64px;
+    
+}
+
+.h3-big{
+    width: 249px;
+    height: 48px;
+    color: black;
+    font-size: 34px;
+    font-weight: 400;
+    margin-top: 32px;
+}
+
+.p-big{
+    width: 335px;
+    height: 91px;
+    color: #605E5D;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.p-third{
+    margin-top: 4px;
+}
+
+.small{
+    display: flex;
+    gap: 6px;
+}
+
+.h4-big{
+    width: 314px;
+    height: 48px;
+    color: black;
+    font-size: 34px;
+    font-weight: 400;
+    margin-top: 31px;
+}
+
+.medium{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1148px;
+    height: 680.23px;
+    margin: 0 auto;
+    gap: 60px;
+}
+
+.main{
+    margin-top: 300px;
+}
+
+
+.ready{
+    width: 604px;
+    height: 124px;
+    color: black;
+    font-size: 54px;
+    font-weight: 400;
+    margin-top: -400px;
+    margin-left: 146px;
+}
+
+.fourth{
+    width: 574px;
+    height: 61px;
+    color: #605E5D;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 146px;
+    margin-top: 20px;
+}
+
+.buts{
+    width: 169px;
+    height: 75px;
+    background-color: #FF4D01;
+    color: white;
+}
+
+.butts{
+    width: 180px;
+    height: 75px;
+    background: transparent;
+}
+
+.parent{
+    margin-left: 146px;
+    gap: 30px;
+    margin-top: 38px;
+}
+
+.suha-section{
+    margin-top: 30px;
+    height: 22px;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FF4D01;
+}
+
+.class-section{
+    width: 473px;
+    height: 186px;
+    font-size: 54px;
+    font-weight: 400;
+    color: black;
+    margin-top: 50px;
+}
+
+.tima-second{
+    width: 529px;
+    height: 91px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #605E5D;
+}
+
+.git{
+    width: 250px;
+    height: 20px;
+    font-size:18px;
+    font-weight: 400;
+    color: #191919;
+    margin-top: 20px;
+}
+
+.git:hover{
+    color: #FF4D01;
+}
+
+.hub{
+    width: 300px;
+    height: 20px;
+    font-size:17px;
+    font-weight: 400;
+    color: #191919;
+    margin-top: 20px;
+}
+
+.hub:hover{
+    color: #FF4D01;
+}
+
+.gut{
+    width: 250px;
+    height: 20px;
+    font-size:17px;
+    font-weight: 400;
+    color: #191919;
+    margin-top: 20px;
+}
+
+.gut:hover{
+    color: #FF4D01;
+}
+
+.under-img{
+    margin-left: 950px;
+    margin-top: -450px;
+}
+
+
+.under-text{
+    margin-top: 100px;
+}
+
+h2{
+    width: 525px;
+    height: 186px;
+    font-size: 54px;
+    font-weight: 400;
+    color: #191919;
+}
+
+p{
+    width: 508px;
+    height: 91px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #605E5D;
+    margin-top: 19px;
+}
+
+
+.invite{
+    margin-top: 100px;
+}
+
+.past{
+    width: 167px;
+    height: 22px;
+    color: #FF4D01;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.project{
+    width: 602px;
+    height: 124px;
+    font-size: 54px;
+    font-weight: 400;
+    color: #191919;
+}
+
+.invite-button{
+    margin-left: 1000px;
+    margin-top: -100px;
+}
+
+.get{
+    width: 169px;
+    height: 75px;
+    background-color: #FF4D01;
+    color: white;
+    border: none;
+}
+
+.browse{
+    width: 211px;
+    height: 75px;
+    background: transparent;
+    color: black;
+}
+
+.invite-img{
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+.build{
+    margin-top: -300px;
+    color: white;
+    width: 361px;
+    height: 97px;
+    font-size: 34px;
+    font-weight: 400;
+    margin-left: 30px;
+}
+
+.ipsum{
+    width: 447px;
+    height: 61px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #EAEAEB;
+    margin-left: 30px;
+}
+
+.h4{
+    width: 159px;
+    height: 30px;
+    color: white;
+    margin-left: 30px;
+}
+
+.big-all{
+    display: flex;
+    gap: 200px;
+}
+
+.src{
+    margin-top:90px;
+}
+
+
+
